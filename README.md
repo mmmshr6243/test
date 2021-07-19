@@ -1,5 +1,3 @@
 Somebody added new files
 
-
-
-This is the line from feature-branch
+This is the line from branch b
